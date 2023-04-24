@@ -1,0 +1,18 @@
+.contactLabel {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.contactInput {
+  width: 300px;
+  height: 25px;
+  border: none;
+  border-radius: 4px;
+}
