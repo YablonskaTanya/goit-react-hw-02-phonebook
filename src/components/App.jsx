@@ -64,7 +64,7 @@ export class App extends Component {
           marginRight: 'auto',
           width: '500px',
           marginTop: '50px',
-          backgroundColor: 'rgb(189, 189, 189)',
+          backgroundColor: '#b4d6f5',
           borderRadius: '8px',
           padding: '40px 20px',
         }}
