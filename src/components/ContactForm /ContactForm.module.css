@@ -27,7 +27,7 @@
   padding: 5px 10px;
   outline: transparent;
 }
-npm run build .addContactBtn {
+.addContactBtn {
   border-radius: 4px;
   padding: 10px 30px;
   border: none;
